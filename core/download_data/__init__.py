@@ -1,3 +1,2 @@
 from .download_geosampa import ShpDownloader as DownloadShpsGeoSampa
 from .download_microdados_censo import DadosSetoresCensoDownload
-from .download_pesquisa_od import OdDownload
